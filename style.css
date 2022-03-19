@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{background-color:#f1f1f1 ;
+color: #0f141e;
+
+font-size: 16px;
+font-weight: normal;
+font-family: 'Roboto', sant-serit;
+}
+.avatar {
+width: 200px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(0,0,0,0 25);
+}
+.info p { 
+    color: #86898f;
+    margin: 0;
+}
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+.social {
+    background-color: rgb(14, 223, 32);
+    padding: 15px;
+    border: 5px solid red;
+    margin: 5 px;
+    border-bottom-style: dotted;
+}
